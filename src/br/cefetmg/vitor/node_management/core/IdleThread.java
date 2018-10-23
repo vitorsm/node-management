@@ -1,8 +1,8 @@
-package br.cefetmg.vitor.migracao.core;
+package br.cefetmg.vitor.node_management.core;
 
 import java.awt.MouseInfo;
 
-import br.cefetmg.vitor.migracao.Constants;
+import br.cefetmg.vitor.node_management.Constants;
 
 public class IdleThread implements Runnable {
 	

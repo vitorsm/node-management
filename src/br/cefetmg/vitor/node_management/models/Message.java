@@ -1,4 +1,4 @@
-package br.cefetmg.vitor.migracao.models;
+package br.cefetmg.vitor.node_management.models;
 
 
 public enum Message {

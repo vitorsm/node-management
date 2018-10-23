@@ -1,7 +1,7 @@
-package br.cefetmg.vitor.migracao;
+package br.cefetmg.vitor.node_management;
 
-import br.cefetmg.vitor.migracao.core.SimpleNodeCore;
-import br.cefetmg.vitor.migracao.core.SuperNodeCore;
+import br.cefetmg.vitor.node_management.core.SimpleNodeCore;
+import br.cefetmg.vitor.node_management.core.SuperNodeCore;
 
 public class App {
 

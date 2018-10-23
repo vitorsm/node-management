@@ -1,4 +1,4 @@
-package br.cefetmg.vitor.migracao.core;
+package br.cefetmg.vitor.node_management.core;
 
 import java.io.File;
 import java.io.IOException;
@@ -8,10 +8,10 @@ import java.net.Socket;
 import java.util.ArrayList;
 import java.util.List;
 
-import br.cefetmg.vitor.migracao.Constants;
-import br.cefetmg.vitor.migracao.models.ExecutorData;
-import br.cefetmg.vitor.migracao.models.Message;
-import br.cefetmg.vitor.migracao.models.Node;
+import br.cefetmg.vitor.node_management.Constants;
+import br.cefetmg.vitor.node_management.models.ExecutorData;
+import br.cefetmg.vitor.node_management.models.Message;
+import br.cefetmg.vitor.node_management.models.Node;
 
 public class SuperNodeCore {
 	private List<Node> nodes;

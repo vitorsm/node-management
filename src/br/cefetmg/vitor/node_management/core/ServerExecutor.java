@@ -1,12 +1,12 @@
-package br.cefetmg.vitor.migracao.core;
+package br.cefetmg.vitor.node_management.core;
 
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectInputStream;
 
-import br.cefetmg.vitor.migracao.Constants;
-import br.cefetmg.vitor.migracao.models.ExecutorData;
+import br.cefetmg.vitor.node_management.Constants;
+import br.cefetmg.vitor.node_management.models.ExecutorData;
 
 public class ServerExecutor implements Runnable {
 	

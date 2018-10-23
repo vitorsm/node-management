@@ -1,10 +1,10 @@
-package br.cefetmg.vitor.migracao.core;
+package br.cefetmg.vitor.node_management.core;
 
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-import br.cefetmg.vitor.migracao.Constants;
+import br.cefetmg.vitor.node_management.Constants;
 
 public class ServerAccept implements Runnable {
 

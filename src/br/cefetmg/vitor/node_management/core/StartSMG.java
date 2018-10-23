@@ -1,9 +1,9 @@
-package br.cefetmg.vitor.migracao.core;
+package br.cefetmg.vitor.node_management.core;
 
 import java.io.File;
 import java.io.IOException;
 
-import br.cefetmg.vitor.migracao.Constants;
+import br.cefetmg.vitor.node_management.Constants;
 
 public class StartSMG {
 

@@ -1,4 +1,4 @@
-package br.cefetmg.vitor.migracao.core;
+package br.cefetmg.vitor.node_management.core;
 
 public class SimpleNodeCore {
 
